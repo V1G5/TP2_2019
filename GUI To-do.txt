@@ -1,0 +1,8 @@
+GUI To-do
+Serial Connect/Disconnect - Done
+Fitzpatrick quiz - Done
+Quiz Override - Done
+MED Calculation - Done 
+MED Override - Done
+Send button show - Done
+Mechanism to synchronise current date and time with system connected - Done (basic get time functionality)
